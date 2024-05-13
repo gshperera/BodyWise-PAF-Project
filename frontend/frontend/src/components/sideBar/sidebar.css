@@ -1,0 +1,9 @@
+.nav-tab:hover{
+    background-color: #272727;
+    color: #24a621;
+}
+
+.active-tab{
+    background-color: #272727;
+    color: #24a621;
+}

@@ -1,0 +1,12 @@
+/* .customTextField {
+    '& .MuiInputBase-input': { color: 'white' },
+    '& .MuiOutlinedInput-notchedOutline': { borderColor: 'white' },
+    '&:hover .MuiOutlinedInput-notchedOutline': { borderColor: '#24a621' },
+    '&.Mui-focused .MuiOutlinedInput-notchedOutline': { borderColor: '#24a621' }
+} */
+/* color changed */
+
+.text-styles{
+    border: 1px solid white;
+    color: white;
+}
